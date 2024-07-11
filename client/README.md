@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-T
 
 ## Available Scripts
 
